@@ -1,5 +1,5 @@
 {
-  "name": "rehype-react",
+  "name": "@craftzdog/rehype-react",
   "description": "Compile Hast tree to React with remark",
   "version": "3.0.3",
   "keywords": [
